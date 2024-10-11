@@ -1,0 +1,2 @@
+primary inspiration is this: note that its c++ (quite modern) so the api is completely different.
+https://bakedbits.dev/posts/vulkan-compute-example/
